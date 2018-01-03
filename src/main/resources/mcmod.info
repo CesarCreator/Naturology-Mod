@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nr",
+  "name": "Naturology - Main",
+  "description": "The Main part of the Naturology mod. \u00A7aExpand your factory, evolve, but with natural resources! \u00A7fIf you want, you can download the other parts of this mod, but this mod isn't dependant of these extensions. ",
+  "version": "Public Alpha 1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheDarkLord1459"],
+  "credits": "CesarCreator, and all of its projects are a production of: Cesar Studios, or in Brazil, Alunos.",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
